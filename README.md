@@ -1,1 +1,2 @@
-# Sistema-Especialista-2
+# Sistema-Especialista
+Sistema de Diagnostico de Doenças
